@@ -14,4 +14,28 @@ Edge.java
 
 PrimMST.java
 
-EdgeWeightedGraph.java, Bag.java, IndexMinPQ.java, Queue.java, UF.java ,EdgeWeightedDigraph.java, BreadthFirstPaths.java, DijkstraSP.java, DirectedEdge.java, Graph.java, Stack.java, StdIn.java, StdOut.java
+EdgeWeightedGraph.java
+
+Bag.java
+
+IndexMinPQ.java
+
+Queue.java
+
+UF.java
+
+EdgeWeightedDigraph.java
+
+BreadthFirstPaths.java
+
+DijkstraSP.java
+
+DirectedEdge.java
+
+Graph.java
+
+Stack.java
+
+StdIn.java
+
+StdOut.java
